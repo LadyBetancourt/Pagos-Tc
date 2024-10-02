@@ -17,7 +17,8 @@
             }
             else
             {
-
+                Console.WriteLine("Codigo incorrecto");
+            }
 
         }
     }
